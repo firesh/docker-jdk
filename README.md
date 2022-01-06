@@ -6,5 +6,5 @@ Docker stable JDK Alpine image with essential package
 - fontconfig
 
 # tag & dockerfile
-- [latest](https://github.com/firesh/docker-alpine-es/blob/master/Dockerfile)
-- [8-alpine](https://github.com/firesh/docker-alpine-es/blob/master/Dockerfile)
+- [latest](https://github.com/firesh/docker-jdk/blob/master/Dockerfile)
+- [8-alpine](https://github.com/firesh/docker-jdk/blob/master/Dockerfile)
